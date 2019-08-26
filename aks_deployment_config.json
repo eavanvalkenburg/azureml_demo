@@ -1,0 +1,21 @@
+{
+    "computeType": "aks",
+    "autoScaler":
+    {
+        "autoscaleEnabled": true,
+        "minReplicas": 1,
+        "maxReplicas": 5,
+        "refreshPeriodInSeconds": 1,
+        "targetUtilization": 70
+    },
+    "dataCollection":
+    {
+        "storageEnabled": true
+    },
+    "authEnabled": true,
+    "containerResourceRequirements":
+    {
+        "cpu": 1.0,
+        "memoryInGB": 2.0
+    }
+}

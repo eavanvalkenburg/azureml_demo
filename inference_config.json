@@ -1,0 +1,11 @@
+{
+    "entryScript": "score.py",
+    "runtime": "python",
+    "condaFile": "conda_dependencies.yml",
+    "extraDockerfileSteps": null,
+    "sourceDirectory": "code/scoring",
+    "enableGpu": false,
+    "baseImage": null,
+    "baseImageRegistry": null,
+    "description": "Deployed model for Housing Price Predictions."
+}
