@@ -3,7 +3,7 @@
     "runtime": "python",
     "condaFile": "conda_dependencies.yml",
     "extraDockerfileSteps": null,
-    "sourceDirectory": "code/scoring",
+    "sourceDirectory": null,
     "enableGpu": false,
     "baseImage": null,
     "baseImageRegistry": null,
