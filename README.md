@@ -1,6 +1,6 @@
 
-[![Release Status](https://edvanvs.vsrm.visualstudio.com/_apis/public/Release/badge/ad147193-a94f-4689-aeeb-83aa413940a7/2/3)
-[![Release Status](https://edvanvs.vsrm.visualstudio.com/_apis/public/Release/badge/ad147193-a94f-4689-aeeb-83aa413940a7/2/4)
+![Release Status](https://edvanvs.vsrm.visualstudio.com/_apis/public/Release/badge/ad147193-a94f-4689-aeeb-83aa413940a7/2/3)
+![Release Status](https://edvanvs.vsrm.visualstudio.com/_apis/public/Release/badge/ad147193-a94f-4689-aeeb-83aa413940a7/2/4)
 
 # Eduard's Azure ML demo
 
