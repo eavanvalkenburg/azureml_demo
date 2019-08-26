@@ -2,19 +2,7 @@
 import pickle
 import json
 import numpy
-from sklearn.ensemble import RandomForestClassifier
 from azureml.core.model import Model
-from azureml.core.experiment import Experiment
-from azureml.core.workspace import Workspace
-from azureml.train.automl import AutoMLConfig
-from azureml.core.datastore import Datastore
-from azureml.core.dataset import Dataset
-from azureml.data.data_reference import DataReference
-from azureml.core.compute import AmlCompute
-from azureml.core.compute import ComputeTarget
-from azureml.core.runconfig import RunConfiguration
-from azureml.core.conda_dependencies import CondaDependencies
-
 
 def init():
     global model

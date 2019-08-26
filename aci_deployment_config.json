@@ -7,5 +7,6 @@
     },
     "authEnabled": true,
     "sslEnabled": false,
-    "appInsightsEnabled": false
+    "appInsightsEnabled": false,
+    "dnsNameLabel": "house_prices"
 }
