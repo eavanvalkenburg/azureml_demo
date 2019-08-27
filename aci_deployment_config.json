@@ -8,5 +8,5 @@
     "authEnabled": true,
     "sslEnabled": false,
     "appInsightsEnabled": false,
-    "dnsNameLabel": "house_prices"
+    "dnsNameLabel": "house-prices"
 }
